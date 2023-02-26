@@ -33,9 +33,9 @@ function App() {
                   <h2 className="text-[32px]">
                     $29 <span className="font-normal text-base">per month</span>
                   </h2>
-                  <p className="font-normal text-base">
+                  <h3 className="font-normal text-base">
                     Full access for less than $1 a day
-                  </p>
+                  </h3>
                 </article>
                 <Button className="xl:w-[237px] xl:h-[48px]">Sign Up</Button>
               </div>

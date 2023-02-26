@@ -30,9 +30,9 @@ function App() {
               <div className="text-white font-bold px-5 py-5 flex flex-col gap-3 bg-[#2AB3B1] xl:w-[318px] xl:px-8 xl:py-8">
                 <h1 className=" text-[18px]">Monthly Subscription</h1>
                 <article>
-                  <p className="text-[32px]">
+                  <h2 className="text-[32px]">
                     $29 <span className="font-normal text-base">per month</span>
-                  </p>
+                  </h2>
                   <p className="font-normal text-base">
                     Full access for less than $1 a day
                   </p>
